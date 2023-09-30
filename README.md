@@ -13,5 +13,5 @@ il contient la fonction qui appele le FastAPI et la fonction d'inference qui se 
 ***Dockerfile*** :
 Dockerfile contient les commandes pour construire l'image et de deployer notre modele accessible via fastapi sur Docker
 
-*** /screenshots*** :
+***/screenshots*** :
 le dossier screenshots contient quelques captures d'ecrans relatifs a ce projet 
